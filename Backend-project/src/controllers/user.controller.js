@@ -449,7 +449,7 @@ const getWatchHistory = asyncHandler(async(req,res)=>{
     )
 })
 
-
+//project completed
 //exporting functions as an object
 export {
     registerUser,
